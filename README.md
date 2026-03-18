@@ -30,6 +30,11 @@ I designed a parent pipeline in ADF that:
 2. **Executes** the Ingestion Notebook.
 3. **Executes** the Transformation Notebook upon success.
 4. **Trigger:** Set to run on a Daily schedule to ensure data freshness.
+   Below screenshot shows the pipeline created for Ingestion, Transformation purpose
+<img width="2658" height="1266" alt="image" src="https://github.com/user-attachments/assets/d0e74e26-3bd0-478c-9823-392c355d81d2" />
+<img width="2658" height="1266" alt="image" src="https://github.com/user-attachments/assets/de2f05df-8858-4d4e-ac24-fdf533531f4a" />
+<img width="2658" height="1266" alt="image" src="https://github.com/user-attachments/assets/2253d759-2f23-439a-9213-1f4acf9709ca" />
+
 
 ## 📊 Data Visualization
 Below screenshot acquired from executing the SQL queries and from Databricks visualizations used to derive business insights from the Gold layer.
