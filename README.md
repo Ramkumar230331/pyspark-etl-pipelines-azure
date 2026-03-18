@@ -33,5 +33,9 @@ I designed a parent pipeline in ADF that:
 
 ## 📊 Data Visualization
 Below screenshot acquired from executing the SQL queries and from Databricks visualizations used to derive business insights from the Gold layer.
-![Alt text for the image](Databricks_Notebooks/Analysis/Dominant Drivers.png)
-![Alt text for the image](Databricks_Notebooks/Analysis/Dominant Teams.png)
+**Dominant Drivers**
+<img width="1161" height="477" alt="Dominant Drivers" src="https://github.com/user-attachments/assets/6d141b21-0f7a-4c41-8f47-88e1acef7311" />
+**Dominant Teams**
+<img width="1171" height="449" alt="Dominant Teams" src="https://github.com/user-attachments/assets/bab832c6-7c74-46b2-b9fb-943f8f01b2f2" />
+
+
