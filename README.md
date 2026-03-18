@@ -32,4 +32,6 @@ I designed a parent pipeline in ADF that:
 4. **Trigger:** Set to run on a Daily schedule to ensure data freshness.
 
 ## 📊 Data Visualization
-The `/02-Databricks-Notebooks/Analysis` folder contains SQL queries and Databricks visualizations used to derive business insights from the Gold layer.
+Below screenshot acquired from executing the SQL queries and from Databricks visualizations used to derive business insights from the Gold layer.
+![Alt text for the image](Databricks_Notebooks/Analysis/Dominant Drivers.png)
+![Alt text for the image](Databricks_Notebooks/Analysis/Dominant Teams.png)
